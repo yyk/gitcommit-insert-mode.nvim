@@ -1,0 +1,1 @@
+# gitcommit-insert-mode.nvim
